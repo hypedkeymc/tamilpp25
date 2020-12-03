@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GalaticCore:jar">
+    <output-path>D:/TestServer/plugins</output-path>
+    <root id="archive" name="GalaticCore.jar">
+      <element id="module-output" name="GalaticCore" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+name: GalaticCore
+main: me.tamilpp25.core.main
+author: tamilpp25
+version: 1.0.0
+commands:
+  givegun:
+    description: ???
+  getdurability:
+    description: ???
+  removestand:
+    description: ???
