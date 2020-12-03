@@ -130,8 +130,6 @@ public class main<pubic> extends JavaPlugin implements Listener{
             armorStand.setVisible(false);
             armorStand.setCustomName(ChatColor.GOLD + "?" + ChatColor.RED + i);
             armorStand.setCustomNameVisible(true);
-
-            
         }
     }
 
