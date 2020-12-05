@@ -1,1 +1,1 @@
-Galactic Core plugin source code!
+# Galactic Core plugin source code!
